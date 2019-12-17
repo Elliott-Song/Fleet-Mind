@@ -1,0 +1,48 @@
+~ H O W    T O   P L A Y ~
+
+Fleet Mind is a strategy game. You are in charge of a 
+small fleet of 5 ships and your goal is to crush the 
+enemy fleet that opposes you. 
+You have one tool: the STRATEGY BUILDER.
+
+The STRATEGY BUILDER is how you control your fleet. 
+With it, you can design clever instructions for all 
+your ships to follow in battle.
+
+It is made up of boxes like this:
+
+
+
+
+
+Each of these boxes acts as an if-then statement. 
+If all the conditions on the left 
+are true, then the action on the right will be executed.
+Edit a bubble to edit the condition or action. 
+Edit the tiny ovals below the condition bubbles 
+to make a condition negative.
+
+
+
+
+
+This box reads "If an ally is not in sight and an 
+enemy is in sight, then fire!"
+
+In the STRATEGY BUILDER, you are also able to select 
+the starting formation of your fleet as well as save 
+and load your favourite strategies.
+
+When your are ready to go, the big "Test" 
+button will start a battle!
+*  *  *
+
+This may seem confusing right now but once you 
+get the hang of it, the possibilities are endless. 
+Pretty soon, you'll be leading a super-intelligent
+fleet of terror! 
+The best way to learn is doing, so jump over to 
+one of the gamemodes and start strategizing!
+
+Have fun :)
+- Elliott Song
